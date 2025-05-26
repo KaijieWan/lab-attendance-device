@@ -1,0 +1,22 @@
+{
+    "theme_color": "#8936FF",
+    "background_color": "#2EC6FE",
+    "icons": [
+        { "purpose": "maskable", "sizes": "512x512", "src": "icons/icon512_maskable.png", "type": "image/png" },
+        { "purpose": "any", "sizes": "512x512", "src": "icons/icon512_rounded.png", "type": "image/png" }
+    ],
+    "screenshots": [
+        {
+        "src": "lab_ats_screenshot.png", "type": "image/png"
+        }
+    ],
+    "orientation": "landscape",
+    "display": "standalone",
+    "dir": "auto",
+    "lang": "en-US",
+    "short_name": "NTU Labs",
+    "start_url": "/",
+    "name": "NTU Lab Attendance System",
+    "description": "A system designed to facilitate attendance tracking and management in NTU CCDS Labs.",
+    "id": "ntu_lab_ats"
+}
