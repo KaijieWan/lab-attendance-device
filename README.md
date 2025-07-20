@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+I would like to credit to Zu Wei for his project as a reference for the lab device (client application) here.
+
 ## Getting Started
 
 First, run the development server:
@@ -14,7 +16,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3001](http://localhost:3001) with your browser to see thne result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
